@@ -1,3 +1,10 @@
 h1 {
     color: rgb(219, 186, 76);
 }
+
+.shape {
+    /* width: 300px; */
+    border: 10px solid black;
+    /* padding: 50px; */
+    margin: 20px;
+  }
