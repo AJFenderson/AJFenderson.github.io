@@ -18,7 +18,7 @@
     </ul>
 
 <h2> About: </h2>
-    <ul>
-    <li> Upon viewing my portfolio you will see various projects that I have been working on.  </>
-     </ul> 
+    <p>
+     Upon viewing my portfolio you will see various projects that I have been working on as well as access to my github,linkedIn, and contact information.  </>
+     </p> 
 
